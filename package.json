@@ -1,0 +1,23 @@
+{
+  "name": "lab_01",
+  "version": "1.0.0",
+  "description": "simple server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node node_modules/jshint/bin/jshint app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyPrischep/lab.git"
+  },
+  "keywords": [
+    "server",
+    "web"
+  ],
+  "author": "Pr Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyPrischep/lab/issues"
+  },
+  "homepage": "https://github.com/DmitriyPrischep/lab#readme"
+}
