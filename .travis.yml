@@ -5,4 +5,9 @@ node_js:
 install:
   - npm install
 
+deploy:
+  provider: heroku
+  api_key: b0e59d2b-4710-4a6c-b63f-dcd2ffb4f3d1
+  app: bumont
+
 
