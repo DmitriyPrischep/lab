@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DmitriyPrischep/lab/issues"
   },
-  "homepage": "https://github.com/DmitriyPrischep/lab#readme"
+  "homepage": "https://github.com/DmitriyPrischep/lab#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
 }
