@@ -11,6 +11,4 @@ deploy:
     secure: 48abfd7a-7b6d-4fa6-9059-2c0ec4759b1b
   app: bumont
 
-after_script: node app.js
-
 
