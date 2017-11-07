@@ -4,7 +4,6 @@
   "description": "simple server",
   "main": "app.js",
   "scripts": {
-    "test": "node node_modules/jshint/bin/jshint app.js",
     "start": "node app.js"
   },
   "repository": {
