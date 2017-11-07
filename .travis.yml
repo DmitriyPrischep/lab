@@ -8,7 +8,7 @@ install:
 deploy:
   provider: heroku
   api_key: 
-    secure: b0e59d2b-4710-4a6c-b63f-dcd2ffb4f3d1
+    secure: 48abfd7a-7b6d-4fa6-9059-2c0ec4759b1b
   app: bumont
   strategy: git
 
